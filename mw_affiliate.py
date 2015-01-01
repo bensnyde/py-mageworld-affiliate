@@ -1,3 +1,15 @@
+"""
+
+Python library for Mageworld's Affiliate Pro Magento Plugin
+
+	http://www.mage-world.com/magento-affiliate-extension.html
+
+Author: Benton Snyder
+Website: http://bensnyde.me
+Created: 10/28/2014
+Revised: 12/31/2014
+
+"""
 import MySQLdb as mdb
 import logging
 import random
